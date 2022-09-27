@@ -9,5 +9,5 @@
 - 📫 How to reach me: ...   
                            1. LinkedIn: https://www.linkedin.com/in/jivtur/  
                            2. Email: rpatel5@mail.sfsu.edu  
-                           3. Website: <Coming Soon>  
+                           3. Website: <i>Coming Soon</i>  
 
