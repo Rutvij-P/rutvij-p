@@ -17,5 +17,13 @@
 <a href="https://github.com/Rutvij-P">
  <p align = "center">
    <img src="https://github-profile-trophy.vercel.app/?username=Rutvij-P&column=7&theme=dark_lover"/>
+   
+   ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
  </p>
  </a>
+ 
+
+
+
+ 
