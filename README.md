@@ -1,4 +1,4 @@
-<p><img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif">  
+<p><img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif"> 
  
 ### Hi there 👋  
   
@@ -11,5 +11,11 @@
 - 📫 How to reach me: ...   
                            1. LinkedIn: https://www.linkedin.com/in/jivtur/  
                            2. Email: rpatel5@mail.sfsu.edu  
-                           3. Website: <i>Coming Soon</i>  
-
+                           3. Website: <i>Coming Soon</i> </p>
+                           <br>
+                           
+<a href="https://github.com/Rutvij-P">
+ <p align = "center">
+   <img src="https://github-profile-trophy.vercel.app/?username=Rutvij-P&column=7&theme=dark_lover"/>
+ </p>
+ </a>
