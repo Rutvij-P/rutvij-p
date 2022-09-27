@@ -1,5 +1,5 @@
- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif">
-
+<p><img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif">  
+ 
 ### Hi there 👋  
   
 - 🔭 I’m currently working on ...  
