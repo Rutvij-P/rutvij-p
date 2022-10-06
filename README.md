@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently working on ...  
                                    1. Profile Page   
-                                   2. Job Post-Search-Apply Web-App  
+                                   2. Job-Gram (a Post-Search-Apply Web-App)  
                                    3. File Directory System  
 - 🌱 I’m currently learning ... C, C++, Matlab, CSS, JavaScript  
 - 💬 Ask me about ... my favourite role in software development team!  
