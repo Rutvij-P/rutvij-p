@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning ... C, C++, Matlab, CSS, JavaScript  
 - 💬 Ask me about ... my favourite role in software development team!  
 - 📫 How to reach me: ...   
-                           1. LinkedIn: https://www.linkedin.com/in/jivtur/  
-                           2. Email: rpatel5@mail.sfsu.edu 
-                           3. Dev.to: https://dev.to/jivtur
+                           1. LinkedIn: https://www.linkedin.com/in/jivtur/  <br />
+                            2. Email: rpatel5@mail.sfsu.edu <br />
+                           3. Dev.to: https://dev.to/jivtur  <br />
                            4. Website: <i>Coming Soon</i> </p>
                            <br>
                            
