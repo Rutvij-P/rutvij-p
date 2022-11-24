@@ -10,8 +10,9 @@
 - 💬 Ask me about ... my favourite role in software development team!  
 - 📫 How to reach me: ...   
                            1. LinkedIn: https://www.linkedin.com/in/jivtur/  
-                           2. Email: rpatel5@mail.sfsu.edu  
-                           3. Website: <i>Coming Soon</i> </p>
+                           2. Email: rpatel5@mail.sfsu.edu 
+                           3. Dev.to: https://dev.to/jivtur
+                           4. Website: <i>Coming Soon</i> </p>
                            <br>
                            
 <a href="https://github.com/Rutvij-P">
