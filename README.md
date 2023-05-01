@@ -12,7 +12,7 @@
                            1. LinkedIn: https://www.linkedin.com/in/jivtur/  <br />
                             2. Email: rpatel5@mail.sfsu.edu <br />
                            3. Dev.to: https://dev.to/jivtur  <br />
-                           4. Website: <i>Coming Soon</i> </p>
+                           4. 3D Website: <i>Coming Soon</i> </p>
                            <br>
                            
 <a href="https://github.com/Rutvij-P">
