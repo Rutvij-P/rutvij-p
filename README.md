@@ -3,16 +3,16 @@
 ### Hi there 👋  
   
 - 🔭 I’m currently working on ...  
-                                   1. Profile Page   
-                                   2. Job-Gram (a Post-Search-Apply Web-App)  
-                                   3. File Directory System  
-- 🌱 I’m currently learning ... C, C++, Matlab, CSS, JavaScript  
+                                   1. WorkoutRecipe iOS App Development   
+                                   2. WhyWait Dental Clinic App Figma Prototype  
+                                   3. Measure Runtime and Computer Memory Bandwidth utilized on remote CPU + GPU (Cori - Perlmutter)
+- 🌱 I’m currently learning ... C, C++, Python, JavaScript 
 - 💬 Ask me about ... my favourite role in software development team!  
 - 📫 How to reach me: ...   
                            1. LinkedIn: https://www.linkedin.com/in/jivtur/  <br />
-                            2. Email: rpatel5@mail.sfsu.edu <br />
+                            2. Email: jivturdev@icloud.com <br />
                            3. Dev.to: https://dev.to/jivtur  <br />
-                           4. 3D Website: <i>Coming Soon</i> </p>
+                           4. Portfolio Website: http://jivturportfolio.vercel.app </p>
                            <br>
                            
 <a href="https://github.com/Rutvij-P">
