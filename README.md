@@ -3,10 +3,9 @@
 ### Hi there 👋  
   
 - 🔭 I’m currently working on ...  
-                                   1. WorkoutRecipe iOS App Development   
-                                   2. WhyWait Dental Clinic App Figma Prototype  
-                                   3. Measure Runtime and Computer Memory Bandwidth utilized on remote CPU + GPU (Cori - Perlmutter)
-- 🌱 I’m currently learning ... C, C++, Python, JavaScript 
+                                   1. Vehicle Recommendation Web-APP using Vite + MongoDB
+                                   2. Automobile Design AI using GANs and 3D Neural Renderer
+- 🌱 I’m currently learning ... PyTorch, AtlasDB, TensorFlow, CAM/CAE Software 
 - 💬 Ask me about ... my favourite role in software development team!  
 - 📫 How to reach me: ...   
                            1. LinkedIn: https://www.linkedin.com/in/jivtur/  <br />
