@@ -3,7 +3,7 @@
 ### Hi there 👋  
   
 - 🔭 I’m currently working on ...  
-                                   1. Vehicle Recommendation Web-APP using Vite + MongoDB
+                                   1. Vehicle Recommendation Web-APP using Vite + MongoDB <br />
                                    2. Automobile Design AI using GANs and 3D Neural Renderer
 - 🌱 I’m currently learning ... PyTorch, AtlasDB, TensorFlow, CAM/CAE Software 
 - 💬 Ask me about ... my favourite role in software development team!  
