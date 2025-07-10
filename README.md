@@ -12,7 +12,7 @@
                            1. LinkedIn: https://www.linkedin.com/in/jivtur/  <br />
                             2. Email: jivturdev@gmail.com <br />
                            3. Dev.to: https://dev.to/jivtur  <br />
-                           4. Portfolio Website: http://jivturportfolio.vercel.app </p>
+                           4. Portfolio Website: http://jivturportfolio.vercel.app [2023 Edition: New In Development] </p>
                            <br>
                            
 <a href="https://github.com/Rutvij-P">
