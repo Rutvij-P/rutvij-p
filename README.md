@@ -3,13 +3,14 @@
 ### Hi there 👋  
   
 - 🔭 I’m currently working on ...  
-                                   1. Vehicle Recommendation Web-APP using Vite + MongoDB <br />
-                                   2. Automobile Design AI using GANs and 3D Neural Renderer
+                                   1. Awwwards Contending Profile Website <br />
+                                   2. Automobile Design AI using GANs and 3D Neural Renderer <br />
+                                   3. Something truely marvelous and exciting!!
 - 🌱 I’m currently learning ... PyTorch, AtlasDB, TensorFlow, CAM/CAE Software 
 - 💬 Ask me about ... my favourite role in software development team!  
 - 📫 How to reach me: ...   
                            1. LinkedIn: https://www.linkedin.com/in/jivtur/  <br />
-                            2. Email: jivturdev@icloud.com <br />
+                            2. Email: jivturdev@gmail.com <br />
                            3. Dev.to: https://dev.to/jivtur  <br />
                            4. Portfolio Website: http://jivturportfolio.vercel.app </p>
                            <br>
